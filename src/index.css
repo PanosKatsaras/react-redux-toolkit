@@ -11,3 +11,35 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.custom-btn {
+  background-color: #3d7daa !important;
+  border: none !important;
+ 
+}
+
+.custom-btn:hover {
+  background-color: #165684 !important; /* Darker shade on hover */
+}
+
+.delete-btn {
+  background-color: #ec4343 !important;
+  border: none !important;
+ 
+}
+
+.delete-btn:hover {
+  background-color: #c42323 !important; /* Darker shade on hover */
+}
+
+.success-btn {
+  background-color: #3cae88 !important;
+  border: none !important;
+}
+
+.success-btn:hover {
+  background-color: #218362 !important; /* Darker shade on hover */
+}
+ 
+
+
